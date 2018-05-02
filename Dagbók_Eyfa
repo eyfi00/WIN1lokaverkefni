@@ -4,3 +4,6 @@ setti upp dhcp , nat , chrome , scope og teingdi vélarnar saman og setti domain
 27.04.2018
 setti upp heimasvæði og setti lika þannig að heimasíðan hjá chrome er rétt hjá öllum notendum og bjó til kvóta sem ég gat samt ekki sett strax á nein drif
 því að tóti átti smá eftir en klára að teingja i næssta tíma
+
+02.05.2018
+bjó til nokkrar group policy sem að nemendur geta ekki opnað task manager né control panel og líka þannig eingit getur opnað internet explorer 
